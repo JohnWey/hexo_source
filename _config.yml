@@ -7,7 +7,7 @@ title: JohnWey's Blog
 subtitle: 终身学习
 description:
 author: Wei
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-next
+theme: hexo-theme-paperbox
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
